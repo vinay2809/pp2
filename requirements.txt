@@ -6,3 +6,4 @@ pillow
 matplotlib
 numpy
 opencv-python-headless
+python-3.10
